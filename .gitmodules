@@ -1,7 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/polymerase3/polymerase3.r-universe.dev
 	branch = HEAD
+[submodule "phiper"]
+	path = phiper
+	url = https://github.com/Polymerase3/phiper
+	branch = main
+[submodule "phiperio"]
+	path = phiperio
+	url = https://github.com/Polymerase3/phiperio
+	branch = main
 [submodule "vecmatch"]
 	path = vecmatch
-	url = https://github.com/polymerase3/vecmatch
+	url = https://github.com/Polymerase3/vecmatch
+	branch = main
