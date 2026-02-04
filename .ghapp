@@ -1,0 +1,10 @@
+{
+  "id": 107936399,
+  "created_at": "2026-02-04T12:48:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["vecmatch", "phiper", "phiperio"]
+}
